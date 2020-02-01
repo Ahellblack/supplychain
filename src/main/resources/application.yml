@@ -16,11 +16,4 @@ spring:
 mybatis:
   configuration:
     mapUnderscoreToCamelCase: true
-##################################自定义配置###############################################
-request:
-  limit:
-    seconds: 30
-caffine:
-  duration: 50
-
 
